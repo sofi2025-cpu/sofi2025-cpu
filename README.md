@@ -8,10 +8,7 @@
   <img src="https://github.com/sofijacom/sofijacom/assets/107557749/c4abfbc2-02d4-4a79-a75f-24e948bf83ee" /> 
 </p>
 
-<p align="center">
-  
-  <img src="https://github.com/user-attachments/assets/c4c688f3-93ca-47f4-8dcd-b95f86925991" /> 
-</p>
+
 
 <hr>
 
