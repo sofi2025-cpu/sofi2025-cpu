@@ -41,8 +41,8 @@ $ bundle exec jekyll serve  # alternatively, npm start
 
 
 ```yml
-header-mask: 0.3
+Etc.
 ```
 
-Etc.
+
 
