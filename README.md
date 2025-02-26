@@ -12,6 +12,33 @@
 
 <hr>
 
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=sofi2025-cpu&show_icons=true&hide_border=true&theme=slateorange&bg_color=00000000&rank_icon=github&hide=issues,contribs"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=sofi2025-cpu&show_icons=true&hide_border=true&bg_color=00000000&rank_icon=github&hide=issues,contribs"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=sofi2025-cpu&show_icons=true&hide_border=true&bg_color=00000000&rank_icon=github&hide=issues,contribs" />
+  </picture>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sofi2025-cpu&layout=compact&hide_border=true&theme=slateorange&bg_color=00000000"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sofi2025-cpu&layout=compact&hide_border=true&bg_color=00000000"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofi2025-cpu&layout=compact&hide_border=true&bg_color=00000000" />
+  </picture>
+</p>
+
+
+
 ![undefined - Imgur](https://github.com/user-attachments/assets/9c7f8d24-1071-41d2-86ef-9a849a7b34c1)
 
  
